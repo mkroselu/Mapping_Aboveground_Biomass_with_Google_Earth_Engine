@@ -1,3 +1,3 @@
 # Google-Earth-Engine
 
-This project is to be reviewed and will be updated after publication.
+This project is in review and will be updated after publication.
