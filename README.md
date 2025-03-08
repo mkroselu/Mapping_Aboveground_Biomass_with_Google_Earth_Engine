@@ -1,6 +1,6 @@
 # Google-Earth-Engine
 
-**Description**: This project is to automatically download LANDFIRE data in the United States. 
+**Description**: This project automatically downloads LANDFIRE data in the United States. 
 
 ## LandTrendr 
 
