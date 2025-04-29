@@ -1,6 +1,6 @@
 # Aboveground Biomass Prediction Model using Random Forest (2020)
 
-**Description**: This project automatically downloads LANDFIRE data in the United States. 
+**Description**: This repository contains a machine learning model built using **Google Earth Engine (GEE)** to predict aboveground biomass density in a selected region using remote sensing data from GEDI, Landsat 8, and other vegetation indices. The model uses a Random Forest algorithm to predict biomass based on several vegetation indices and canopy height.
 
 ## LandTrendr 
 
