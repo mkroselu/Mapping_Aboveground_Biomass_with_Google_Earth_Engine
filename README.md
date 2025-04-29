@@ -1,4 +1,4 @@
-# Remote Sensing Biomass Prediction Model using Random Forest (2020)
+# Aboveground Biomass (Carbon) Prediction Model using Random Forest (2020)
 
 **Description**: This project automatically downloads LANDFIRE data in the United States. 
 
